@@ -29,6 +29,7 @@ Commit changes using this command: git commit -m "some message"
    - Node & NPM installed in your system
 2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
 3. Follow the instructions of the videos, every other aspect of this course will be explained in them.
+4. The only file needed for this course is an image in the resources folder you cloned or forked.
 
 [0]: # "Replace these placeholder URLs with actual course URLs"
 [lil-course-url]: https://www.linkedin.com/learning/
