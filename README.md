@@ -2,6 +2,10 @@
 
 This is the repository for the LinkedIn Learning course `MERN Essential Training`. The full course is available from [LinkedIn Learning][lil-course-url].
 
+![lil-thumbnail-url]
+
+In this course, full stack developer and executive Emmanuel Henri shows you how to set up MERN to build universal applications using React, Express, Node, and MongoDB. Get an introduction to MERN and learn how to install the tools you will be using. Go over initial server setup and how to create the folders and files that you will need. Set up your database and schema, and find out how to create all the endpoints that this project will require. Plus, learn how to add a styling library, folder structure, main page structure, forms, and much more to the CMERN React frontend.
+
 _See the readme file in the main branch for updated instructions and information._
 
 ## Instructions
@@ -31,6 +35,16 @@ Commit changes using this command: git commit -m "some message"
 3. Follow the instructions of the videos, every other aspect of this course will be explained in them.
 4. The only file needed for this course is an image in the resources folder you cloned or forked.
 
+### Instructor
+
+Emmanuel Henri
+
+Executive with 20+ years of experience in programming and design
+
+                            
+
+Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/emmanuel-henri?u=104).
+
 [0]: # "Replace these placeholder URLs with actual course URLs"
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: http://
+[lil-course-url]: https://www.linkedin.com/learning/mern-essential-training-23742723
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQFh4PHu5iIXvA/learning-public-crop_675_1200/0/1711748448882?e=2147483647&v=beta&t=N5f6zDhpmIENTPUT4VIgFTQOiBiP0A8BII398VbxjD0
